@@ -179,12 +179,12 @@ border-radius: 3px;
   color: #ccc;
 }
 #chat_input_send.enabled{
-  color: #FFFFFF;
-  height:30px;
+  color: #FF7043;
+  /*height:30px;
   width: 30px;
-  border-radius: 50%;
+  border-radius: 50%;*/
   padding:3px;
-  background-color: #FF7043;
+  background-color: #FFF;
   cursor: pointer;
 
 }
