@@ -12,7 +12,7 @@ body{
   font-weight: 900;
 
   overflow: hidden;
-  animation: blur 0.5s ease-out;
+  animation: blur 5s ease-out;
 
 }
 *{
