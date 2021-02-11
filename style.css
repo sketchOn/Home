@@ -167,6 +167,7 @@ body{
   background-color: Transparent;
   color: #1D3354;
   font-size: 15px;
+  font-family: Product Sans;
 }
 #chat_input_send{
   width: 5%;
