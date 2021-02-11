@@ -66,7 +66,7 @@ window.onload = function() {
 
       var join_input = document.createElement('input')
       join_input.setAttribute('id', 'join_input')
-      join_input.setAttribute('maxlength', 25)
+      join_input.setAttribute('maxlength', 200)
       join_input.placeholder = 'Enter Your Name'
       // Every time we type into the join_input
       join_input.onkeyup  = function(){
