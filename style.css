@@ -154,7 +154,7 @@ body{
   float: left;
   border-bottom: 2px dashed #1D3354;
   background-color: Transparent;
-
+border-radius: 3px;
   padding-left: 15px;
   padding-right: 15px;
   font-family: Product Sans;
