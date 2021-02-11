@@ -179,8 +179,10 @@ border-radius: 3px;
   color: #ccc;
 }
 #chat_input_send.enabled{
-  color: #FF7043;
-  background-color: Transparent;
+  color: #FFFFFF;
+  border-radius: 50%;
+  padding:3px;
+  background-color: #FF7043;
   cursor: pointer;
 
 }
