@@ -111,7 +111,7 @@ body{
   border-radius: 5px;
   width: 60%;
   height: 40px;
-background-color: #FF7043;
+background-color: #f58925;
   font-family: Product Sans;
   font-size: 15px;
   font-weight: bold;
@@ -219,7 +219,7 @@ border-radius: 3px;
   display: inline-block;
 }
 .message_user{
-  color: #FF7043;
+  color: #ed8f2b;
   font-weight: bold;
   font-size: 14px;
 }
