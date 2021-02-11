@@ -111,7 +111,7 @@ body{
   border-radius: 5px;
   width: 60%;
   height: 40px;
-
+background-color: #FF7043;
   font-family: Product Sans;
   font-size: 15px;
   font-weight: bold;
@@ -196,7 +196,7 @@ border-radius: 3px;
   margin-top: 20px;
 }
 #chat_logout{
-  color: #D64045;
+  color: #FF7043;
   cursor: pointer;
 }
 #chat_logout:hover{
@@ -219,6 +219,7 @@ border-radius: 3px;
   display: inline-block;
 }
 .message_user{
+  color: #FF70F3;
   font-weight: bold;
   font-size: 14px;
 }
@@ -238,7 +239,7 @@ border-radius: 3px;
 .enabled{
   transition: background-color 0.5s;
   color: #fff;
-  background-color: #D64045; /*#5B7553;*/
+  background-color: #FF7043; /*#5B7553;*/
   cursor: pointer;
 }
 #title_container.chat_title_container{
