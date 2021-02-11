@@ -179,7 +179,7 @@ border-radius: 3px;
   color: #ccc;
 }
 #chat_input_send.enabled{
-  color: #D64045;
+  color: #FF7043;
   background-color: Transparent;
   cursor: pointer;
 
@@ -263,9 +263,9 @@ border-radius: 3px;
   border-radius: 50%;
   width: 40px;
   height: 40px;
-  animation: spin 0.5s linear infinite;
+  animation: spin 2s linear infinite;
 
-  border-top: 6px solid #D64045;
+  border-top: 6px solid #FF7043;
   border-bottom: 6px solid #1D3354;
   border-left: 6px solid #E9FFF9;
   border-right: 6px solid #E9FFF9;
