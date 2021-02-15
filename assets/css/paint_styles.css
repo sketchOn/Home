@@ -23,5 +23,6 @@ body {
     height: 40px;
     width: 100%;
     display: flex;
+    color: #FFFFFF;
     justify-content: center;
 }
