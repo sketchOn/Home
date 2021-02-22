@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
 
 html {
-
 	height: 100%;
 
 }
@@ -131,7 +130,7 @@ h1 small, #text{
 
 	
 
-	h1 {
+	h1, #text {
 
 		text-align: right;
 
