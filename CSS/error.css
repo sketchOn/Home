@@ -10,7 +10,7 @@ body {
 	min-height: 100%;
 
 }
-#text {font-family: 'Cabin Sketch', cursive;}
+#text {font-family: 'Cabin Sketch', cursive; order: 1;}
 body {
 
 	display: flex;
