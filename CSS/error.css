@@ -10,7 +10,7 @@ body {
 	min-height: 100%;
 
 }
-
+#text {font-family: 'Cabin Sketch', cursive;}
 body {
 
 	display: flex;
@@ -130,7 +130,7 @@ h1 small, #text{
 
 	
 
-	h1, #text {
+	h1, #textd {
 
 		text-align: right;
 
