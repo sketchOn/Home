@@ -2,7 +2,7 @@
 {
 "Tag" : "URGENT",
 "Color" : "#FF4342",
-"Message" : "Due to some issues while configuring sketchOn 3.8 [not released) with our server, we're facing errors. Due to this reason we have terminated sketchOn updates till 'Major Release' comes at the month of april. But we will. try our best to fix the issues and restart our works with the next update. If you have any queries regarding the shutdown you can join our telegram community by clicking the “Ask Queries” button below. Regards, sketchOn Team.",
+"Message" : "Due to some issues while configuring sketchOn 3.8 [not released) with our server, we're facing errors. Due to this reason we have terminated sketchOn updates till 'Major Release' comes at the month of april. But we will. try our best to fix the issues and restart our works with the next update. If you have any queries regarding the shutdown you can join our telegram community by clicking the “Ask Queries” button below. \nRegards, \nsketchOn Team.",
 "Img" : "https://sketchon.ml/assets/images/notifications/3.jpg",
 "Title" : "sketchOn Updates Are Temporarily Stopped.",
 "imgStatus" : "True",
