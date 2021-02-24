@@ -10,5 +10,17 @@
 "Url" : "https://t.me/sketchOn_community",
 "Button" : "Suggestion/Questions",
 "Time" : "Feb 8, 2021 at 7:00 PM"
+},
+{
+"Tag" : "NEWS",
+"Color" : "#39B5E3",
+"Message" : "Join Our Telegram Group sketchOn Community, we have made this group for you all to freely ask your questions and hopefully give us suggestions and report bugs when available.",
+"Img" : ""https://sketchon.ml/assets/images/notifications/2.jpg",
+"Title" : "sketchOn Community - Join Now",
+"imgStatus" : "True",
+"btnStatus" : "True",
+"Url" : "https://t.me/sketchOn_community",
+"Button" : "Join",
+"Time" : "Feb 9, 2021 at 2:00 PM"
 }
 ]
