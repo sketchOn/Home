@@ -1,14 +1,15 @@
 [
 {
-  "title" : "Test Note",
-  "message" : "Test Api"
-},
-{
-  "title" : "Note 2",
-  "message" : "how is it?"
-},
-{
-  "title" : "It works 🥳🤩",
-  "message" : "🤩🤩🤩🤩🥳🥳🥳"
+  "tag" : "NEWS",
+  "message" : "Today, we're happy to announce our new way to communicate with our users using notifications center. From here, you can check what's new and what are the coming features and news about sketchOn.\n If you have have any questions or suggestions, click the\n\nbutton below \"Suggestions/Questions\"\n\nRegards,\nsketchOn Team.",
+  "Btnstatus" : "True",
+  "Button" : "Suggestions/Questions",
+  "Color" : "#FF7032",
+  "Img" : "True",
+  "Thumb" : "https://1.bp.blogspot.com/-K4X5z07Q1jA/YCew9L8kp7I/AAAAAAAAExo/5LoBgABinZMq30XsxvNyIL0wFWUUkCnzQCLcBGAsYHQ/s1280/20210213_162734.jpg",
+  "Title" : "Introducing, Notifications Center.",
+  "Url" : "https://telegram.me/sketchOn_community",
+  "Time" : "Feb 8, 2021 at 7:00 PM",
+  "Key" : "-MT0tlKijfXYaD9ikhut"
 }
 ]
