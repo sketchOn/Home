@@ -1,5 +1,5 @@
+[
 {
-  "-MT0tlKijfXYaD9ikhut" : {
     "Btnstatus" : "True",
     "Button" : "Suggestions/Questions",
     "Color" : "#FF7032",
@@ -12,7 +12,7 @@
     "Title" : "Introducing, Notifications Center.",
     "Url" : "https://telegram.me/sketchOn_community"
   },
-  "-MT4vO_6q7IxrbSEasmb" : {
+  {
     "Btnstatus" : "True",
     "Button" : "Join Now",
     "Color" : "#39B5E3",
@@ -25,7 +25,7 @@
     "Title" : "sketchOn Community - Join Now",
     "Url" : "https://t.me/sketchOn_community"
   },
-  "-MU2ZiCRxbKMxnAqoPW-" : {
+   {
     "Btnstatus" : "True",
     "Button" : "Ask Queries",
     "Color" : "#FF4342",
@@ -37,5 +37,5 @@
     "Time" : "Feb 21, 2021 at 1:30 PM",
     "Title" : "sketchOn Updates Are Temporarily Stopped.",
     "Url" : "https://t.me/sketchOn_community"
-  }
 }
+]
