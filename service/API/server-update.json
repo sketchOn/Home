@@ -1,11 +1,41 @@
 {
-  "server" : {
-    "updates" : {
-      "stable" : true,
-      "beta" : false,
-      "admin" : "sketchon.service@gmail.com",
-      "service" : "24 Jan 2021",
-      "status" : "true"
-    }
+  "-MT0tlKijfXYaD9ikhut" : {
+    "Btnstatus" : "True",
+    "Button" : "Suggestions/Questions",
+    "Color" : "#FF7032",
+    "Img" : "True",
+    "Key" : "-MT0tlKijfXYaD9ikhut",
+    "Message" : "Today, we're happy to announce our new way to communicate with our users using notifications center. From here, you can check what's new and what are the coming features and news about sketchOn.\n If you have have any questions or suggestions, click the\n\nbutton below \"Suggestions/Questions\"\n\nRegards,\nsketchOn Team.",
+    "Tag" : "NEWS",
+    "Thumb" : "https://1.bp.blogspot.com/-K4X5z07Q1jA/YCew9L8kp7I/AAAAAAAAExo/5LoBgABinZMq30XsxvNyIL0wFWUUkCnzQCLcBGAsYHQ/s1280/20210213_162734.jpg",
+    "Time" : "Feb 8, 2021 at 7:00 PM",
+    "Title" : "Introducing, Notifications Center.",
+    "Url" : "https://telegram.me/sketchOn_community"
+  },
+  "-MT4vO_6q7IxrbSEasmb" : {
+    "Btnstatus" : "True",
+    "Button" : "Join Now",
+    "Color" : "#39B5E3",
+    "Img" : "True",
+    "Key" : "-MT4vO_6q7IxrbSEasmb",
+    "Message" : "Join Our Telegram Group sketchOn Community, we have made this group for you all to freely ask your questions and hopefully give us suggestions and report bugs when available.",
+    "Tag" : "NEWS",
+    "Thumb" : "https://firebasestorage.googleapis.com/v0/b/fire-base-data-base-000.appspot.com/o/Notification_Image%2F20210209_100343.jpg?alt=media&token=5aa5cb58-5d17-4040-a815-e6c64bab8dc8",
+    "Time" : "Feb 5, 2021 at 2:00 PM",
+    "Title" : "sketchOn Community - Join Now",
+    "Url" : "https://t.me/sketchOn_community"
+  },
+  "-MU2ZiCRxbKMxnAqoPW-" : {
+    "Btnstatus" : "True",
+    "Button" : "Ask Queries",
+    "Color" : "#FF4342",
+    "Img" : "True",
+    "Key" : "-MU2ZiCRxbKMxnAqoPW-",
+    "Message" : "Due to some issues while configuring sketchOn 3.8 [not released] with our server, we're facing errors Due to this reason we have terminated sketchOn updates till “Major Release” comes at the month of april. But we will. try our best to fix the issues and restart our works with the next update. If you have any queries regarding the shutdown you can join our telegram community by clicking the “Ask Queries” button below.\n\nRegards,\nsketchOn Team.",
+    "Tag" : "URGENT",
+    "Thumb" : "https://firebasestorage.googleapis.com/v0/b/fire-base-data-base-000.appspot.com/o/Notification_Image%2F20210221_163224.jpg?alt=media&token=084e538d-cc63-4d09-bd45-30762f2d5236",
+    "Time" : "Feb 21, 2021 at 1:30 PM",
+    "Title" : "sketchOn Updates Are Temporarily Stopped.",
+    "Url" : "https://t.me/sketchOn_community"
   }
 }
