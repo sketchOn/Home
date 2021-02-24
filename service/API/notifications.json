@@ -1,15 +1,15 @@
 [
 {
-"Tag" : "NEWS",
-"Color" : "#FF7043",
-"Message" : "Today, we're happy to announce our new way to communicate with our users using notifications center. From here, you can check what's new and what are the coming features and news about sketchOn.\n If you have have any questions or suggestions, click the\n\nbutton below \"Suggestions/Questions\"\n\nRegards,\nsketchOn Team.",
-"Img" : "https://1.bp.blogspot.com/-K4X5z07Q1jA/YCew9L8kp7I/AAAAAAAAExo/5LoBgABinZMq30XsxvNyIL0wFWUUkCnzQCLcBGAsYHQ/s1280/20210213_162734.jpg",
-"Title" : "Introducing, Notifications Center.",
+"Tag" : "URGENT",
+"Color" : "#FF4342",
+"Message" : "Due to some issues while configuring sketchOn 3.8 [not released) with our server, we're facing errors. Due to this reason we have terminated sketchOn updates till 'Major Release' comes at the month of april. But we will. try our best to fix the issues and restart our works with the next update. If you have any queries regarding the shutdown you can join our telegram community by clicking the “Ask Queries” button below. /n/nRegards, /nsketchOn Team.",
+"Img" : "https://sketchon.ml/assets/images/notifications/3.jpg",
+"Title" : "sketchOn Updates Are Temporarily Stopped.",
 "imgStatus" : "True",
 "btnStatus" : "True",
 "Url" : "https://t.me/sketchOn_community",
-"Button" : "Suggestion/Questions",
-"Time" : "Feb 8, 2021 at 7:00 PM"
+"Button" : "Ask Queries",
+"Time" : "Feb 21, 2021 at 1:30 PM"
 },
 {
 "Tag" : "NEWS",
@@ -24,15 +24,15 @@
 "Time" : "Feb 9, 2021 at 2:00 PM"
 },
 {
-"Tag" : "URGENT",
-"Color" : "#FF4342",
-"Message" : "Due to some issues while configuring sketchOn 3.8 [not released) with our server, we're facing errors. Due to this reason we have terminated sketchOn updates till 'Major Release' comes at the month of april. But we will. try our best to fix the issues and restart our works with the next update. If you have any queries regarding the shutdown you can join our telegram community by clicking the “Ask Queries” button below. /n/nRegards, /nsketchOn Team.",
-"Img" : "https://sketchon.ml/assets/images/notifications/3.jpg",
-"Title" : "sketchOn Updates Are Temporarily Stopped.",
+"Tag" : "NEWS",
+"Color" : "#FF7043",
+"Message" : "Today, we're happy to announce our new way to communicate with our users using notifications center. From here, you can check what's new and what are the coming features and news about sketchOn.\n If you have have any questions or suggestions, click the\n\nbutton below \"Suggestions/Questions\"\n\nRegards,\nsketchOn Team.",
+"Img" : "https://1.bp.blogspot.com/-K4X5z07Q1jA/YCew9L8kp7I/AAAAAAAAExo/5LoBgABinZMq30XsxvNyIL0wFWUUkCnzQCLcBGAsYHQ/s1280/20210213_162734.jpg",
+"Title" : "Introducing, Notifications Center.",
 "imgStatus" : "True",
 "btnStatus" : "True",
 "Url" : "https://t.me/sketchOn_community",
-"Button" : "Ask Queries",
-"Time" : "Feb 21, 2021 at 1:30 PM"
+"Button" : "Suggestion/Questions",
+"Time" : "Feb 8, 2021 at 7:00 PM"
 }
 ]
