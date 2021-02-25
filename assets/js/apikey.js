@@ -1,26 +1,25 @@
-function generateUUID()
-{
-	var d = new Date().getTime();
-	
-	if( window.performance && typeof window.performance.now === "function" )
-	{
-		d += performance.now();
-	}
-	
-	var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
-	{
-		var r = (d + Math.random()*16)%16 | 0;
-		d = Math.floor(d/16);
-		return (c=='x' ? r : (r&0x3|0x8)).toString(16);
-	});
-
-return uuid;
+function guid() {
+function S4() {
+	//The toString() method converts a number to a string. i used 16 because that will show as an hexadecimal value
+	//The substr() method extracts parts of a string substr(start, length), i used only the start (1)
+    return (((1+Math.random())*0x10000)|0).toString(16).substring(1); 
+}
+return (S4() + S4() + "-" + S4() + "-4" + S4() + "-" + S4() + "-" + S4() + S4() + S4());
+}
+//to save the 
+var Generator = document.getElementById('button1');
+var input = document.getElementById('input');
+// use onclick attribute, that allows you to generate a new API key everytime you click the button 
+// not only one Time 
+Generator.onclick = function event() {
+ return  input.value  = guid();
 }
 
-/**
- * Generate new key and insert into input value
- */
-$( '#keygen' ).on('click',function()
-{
-	$( '#apikey' ).val( generateUUID() );
-});
+// copy the API key button 
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).val()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
