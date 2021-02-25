@@ -1,0 +1,11 @@
+{
+"update" : "false",
+"update_message" : "NOTHING",
+"update_url" : "https://sketchon.ml",
+"server_stopped" : "false",
+"server_stopped_message" : "nothing",
+"server_stopped_additional_button_status" : "false",
+"server_stopped_additional_button" : "nothing",
+"server_stopped_additional_button_url" : "https://sketchon.ml",
+"shutdown_app" : "false"
+}
