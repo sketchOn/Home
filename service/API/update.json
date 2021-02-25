@@ -7,5 +7,7 @@
 "server_stopped_additional_button_status" : "false",
 "server_stopped_additional_button" : "nothing",
 "server_stopped_additional_button_url" : "https://sketchon.ml",
-"shutdown_app" : "false"
+"shutdown_app" : "false",
+"logo" : "true",
+"logo_url" : "https://sketchon.ml/assets/images/logobnr.jpg"
 }
