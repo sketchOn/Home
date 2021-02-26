@@ -8,7 +8,7 @@ exports.handler = async (event, context) => {
 
     statusCode: 200,
 
-    body: JSON.stringify({ API: ${api}, USER: ${user} }),
+    body: JSON.stringify({ API: ${api}, USER: ${user} });
   
 
   };
