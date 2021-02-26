@@ -6,7 +6,7 @@ functions = "server"
   to = "/404"
 
 [[redirects]]
-  from = "/.netlify/functions"
+  from = "/.netlify/functions/*"
   to = "/inj/*"
   
 
