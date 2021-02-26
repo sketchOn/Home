@@ -1,30 +1,16 @@
-exports.handler = async function(event) {
+exports.handler = function(event, context, callback) {
+	
+	let data = {
+		name:'ray',
+		foo:[1,2,4,6],
+		time:Date.now()
+	};
+	
+	console.log('data is '+JSON.stringify(data));
 
-  // We only care to do anything if this is our POST request.
-  if (event.httpMethod !== "POST") {
-    return {
-      statusCode,
-      headers,
-      body: "This was not a POST request!"
-    };
-  }
+	callback(null, {
+		statusCode:200,
+		body:JSON.stringify(data)
+	});
 
-  // Parse the body contents into an object.
-  const data = JSON.parse(event.body);
-
-  // Make sure we have all required data. Otherwise, get outta here.
-  if (!data.token || !data.amount || !data.idempotency_key) {
-    const message = "Required information is missing!";
-
-    console.error(message);
-
-    return {
-      statusCode,
-      headers,
-      body: JSON.stringify({
-        status: "failed",
-        message
-      })
-    };
-  }
-};
+}
