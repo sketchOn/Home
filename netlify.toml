@@ -1,3 +1,10 @@
+[build]
+
+  functions = "server"
+
 [[redirects]]  
   from = "/assets/css/paint_styles.css"
   to = "/404"
+  
+
+  
