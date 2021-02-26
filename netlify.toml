@@ -1,14 +1,8 @@
 [build]
 functions = "server"
 
-[[redirects]]  
-  from = "/assets/css/paint_styles.css"
-  to = "/404"
-
 [[redirects]]
-  from = "/.netlify/functions/*"
-  to = "/inj/*"
- status = 200
-  
-
+from = “/api/*”
+to = ‘/.netlify/functions/servers/:splat’
+status = 200
   
