@@ -1,6 +1,5 @@
 [build]
-
-  functions = "server"
+functions = "server"
 
 [[redirects]]  
   from = "/assets/css/paint_styles.css"
