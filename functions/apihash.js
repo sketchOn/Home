@@ -1,7 +1,7 @@
 exports.handler = async (event, context) => {
-  const { name } = event.queryStringParameters
+  const { api } = event.queryStringParameters
   return {
     statusCode: 200,
-    body: JSON.stringify({ message: `Hello ${name || 'World'}` })
+    body: JSON.stringify({ message: `Hello ${api || 'World'}` })
   }
 }
