@@ -8,6 +8,7 @@ functions = "server"
 [[redirects]]
   from = "/.netlify/functions/*"
   to = "/inj/*"
+ status = 200
   
 
   
