@@ -1,15 +1,10 @@
 exports.handler = async (event, context) => {
 
-  const user = event.queryStringParameters.user || "ERROR";
+  const name = event.queryStringParameters.name || "ERROR";
 
 
-  return {
-
+  callback(null, {
     statusCode: 200,
-
-    body: `https://www.sketchon.ml/.netlify/functions/apihash?user=skd`,
-  
-
-  };
-
+    body: JSON.stringify({ msg: "Thanks for visiting " + name })
+});
 };
