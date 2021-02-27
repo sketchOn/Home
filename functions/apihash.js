@@ -3,6 +3,6 @@ exports.handler = async (event, context) => {
 const { user } = event.queryStringParameters,
   return {
     statusCode: 200,
-    body: JSON.stringify({ API_KEY: ` ${api || 'NO VALID INPUT FOUND'}`, { USER: ` ${user || 'NO VALID INPUT FOUND'}`, "STATUS" : "200"}})
+    body: JSON.stringify({ API_KEY: ` ${api || 'NO VALID INPUT FOUND'}`, { USER: ` ${user || 'NO VALID INPUT FOUND'}`, "STATUS" : "200"})
   }
 }
