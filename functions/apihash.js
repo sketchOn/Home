@@ -1,5 +1,5 @@
 exports.handler = async (event, context) => {
-  const { api } = event.queryStringParameters,
+  const { api } = event.queryStringParameters
 const { user } = event.queryStringParameters
   return {
     statusCode: 200,
