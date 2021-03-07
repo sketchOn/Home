@@ -1,21 +1,8 @@
-const fetch = require("node-fetch");
-
-const API_ENDPOINT = "http://icanhazdadjoke.com/";
-
 exports.handler = async (event, context) => {
+  const name = event.queryStringParameters.name || "World";
 
-  return fetch(API_ENDPOINT, { headers: { Accept: "application/json" } })
-
-    .then((response) => response.json())
-
-    .then((data) => ({
-
-      statusCode: 200,
-
-      body: data.joke,
-
-    }))
-
-    .catch((error) => ({ statusCode: 422, body: String(error) }));
-
+  return {
+    statusCode: 200,
+    body: `Hello, ${name}`,
+  };
 };
