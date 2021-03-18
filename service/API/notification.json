@@ -19,7 +19,7 @@
 "Img" : "https://sketchon.ml/assets/images/notifications/3.jpg",
 "Title" : "sketchOn Updates Are Temporarily Stopped.",
 "imgStatus" : "False",
-"btnStatus" : "False",
+"btnStatus" : "True",
 "Url" : "https://sketchon.ml/community",
 "Button" : "Ask Queries",
 "Time" : "Feb 21, 2021 at 1:30 PM"
